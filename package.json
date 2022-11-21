@@ -1,6 +1,6 @@
 {
   "name": "@chaincodedev/decentraland-dapps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@0xsequence/multicall": "^0.25.1",
     "@0xsequence/relayer": "^0.25.1",
