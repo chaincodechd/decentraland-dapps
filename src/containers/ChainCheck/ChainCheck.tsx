@@ -3,7 +3,7 @@ import { Popup } from 'decentraland-ui/dist/components/Popup/Popup'
 import { T } from '../../modules/translation/utils'
 import { Props } from './ChainCheck.types'
 import ChainProvider from '../ChainProvider'
-
+ 
 export default class ChainCheck extends React.PureComponent<Props> {
   render() {
     const { chainId, children } = this.props
