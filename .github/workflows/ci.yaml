@@ -15,8 +15,14 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v2
         with:
-          node-version: 16.x
+          node-version: 14.20.1
           registry-url: https://registry.npmjs.org
+
+      - name: CI
+        run: npm ci
+
+      - name: Build
+        run: npm run-script build
 
       - name: Publish
         run: npm publish --access public

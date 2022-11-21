@@ -1,6 +1,6 @@
 {
-  "name": "testgd",
-  "version": "0.0.0-development",
+  "name": "@chaincodedev/decentraland-dapps",
+  "version": "1.0.0",
   "dependencies": {
     "@0xsequence/multicall": "^0.25.1",
     "@0xsequence/relayer": "^0.25.1",
