@@ -1,4 +1,4 @@
-import { Locale } from 'decentraland-ui/dist/components/Language/Language'
+import { Locale } from '@chaincodedev/decentraland-ui/dist/components/Language/Language'
 
 import { fetchTranslationsRequest } from '../../modules/translation/actions'
 import { TranslationKeys } from '../../modules/translation/types'

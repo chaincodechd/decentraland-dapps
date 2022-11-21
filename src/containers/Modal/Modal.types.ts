@@ -1,4 +1,4 @@
-import { ModalProps as ModalComponentProps } from 'decentraland-ui/dist/components/Modal/Modal'
+import { ModalProps as ModalComponentProps } from '@chaincodedev/decentraland-ui/dist/components/Modal/Modal'
 
 import { closeModal } from '../../modules/modal/actions'
 
