@@ -19,14 +19,14 @@ export default class Navbar extends React.PureComponent<NavbarProps> {
     }
     return {
       menu: {
-        marketplace: <T id="@dapps.navbar.menu.marketplace" />,
-        events: <T id="@dapps.navbar.menu.events" />,
-        places: <T id="@dapps.navbar.menu.places" />,
-        agora: <T id="@dapps.navbar.menu.agora" />,
-        dao: <T id="@dapps.navbar.menu.dao" />,
-        docs: <T id="@dapps.navbar.menu.docs" />,
-        blog: <T id="@dapps.navbar.menu.blog" />,
-        builder: <T id="@dapps.navbar.menu.builder" />
+        marketplace: <T id="@dapps.navbar.menu.marketplace" />
+        // events: <T id="@dapps.navbar.menu.events" />,
+        // places: <T id="@dapps.navbar.menu.places" />,
+        // agora: <T id="@dapps.navbar.menu.agora" />,
+        // dao: <T id="@dapps.navbar.menu.dao" />,
+        // docs: <T id="@dapps.navbar.menu.docs" />,
+        // blog: <T id="@dapps.navbar.menu.blog" />,
+        // builder: <T id="@dapps.navbar.menu.builder" />
       },
       account: {
         connecting: <T id="@dapps.navbar.account.connecting" />,

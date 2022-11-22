@@ -4,7 +4,7 @@
   "dependencies": {
     "@0xsequence/multicall": "^0.25.1",
     "@0xsequence/relayer": "^0.25.1",
-    "@chaincodedev/decentraland-ui": "^1.0.1",
+    "@chaincodedev/decentraland-ui": "^1.0.5",
     "@dcl/crypto": "^3.0.0",
     "@dcl/schemas": "^5.29.0",
     "@types/flat": "0.0.28",
